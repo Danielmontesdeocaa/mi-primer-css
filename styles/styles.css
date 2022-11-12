@@ -1,0 +1,39 @@
+/* Malas practicas al momento de agregar estilos a nuestro HTML 
+
+
+1.- Agregar estilos directamente en el HTML usando la etiqueta <style></styl>
+2.- Agregar estilos directamente en la etiqueta
+
+
+Jerarquia de estilos
+
+1- El atributo style que va dentro de una etiqueta (h1 style)
+2. lo que esta en la etiqueta style (<style>)
+
+*/
+
+/* 
+
+Tipos de Selectores
+
+    - Etiquetas (h1, body, img, etc.)
+
+    Son una instruccion que podemos usar para seleccionar nuestras etiquetas de HTML. Los selectores son una manera de identificar una etiqueta en particular.
+    Una vez que seleccionamos nuestro elemento, abriremos llaves para poder modificar sus propiedades. Cerramos las llaves cuando terminemos de modificar.
+
+
+    - Clases (.nombreClase)
+
+    Cuando usamos una clase, podemos realizar la misma modificacion para todos los elementos que tengan esa clase. 
+
+
+    - Id (#Id)
+
+     Usar un id es una manera de identificar un elemento en particular con un identificador unico.
+
+    - TODO
+
+
+*/
+
+
